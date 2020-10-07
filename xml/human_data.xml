@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Global name="scCut_tag_Human_Aug2020"  infolink="http://www.broadinstitute.org/igv/" version="1">
+<Global name="scCut_tag_Human_Aug2020"  
+		infolink="http://www.broadinstitute.org/igv/" 
+		version="1"
+		genome="hg38">
   <Category name="H3K27ac">
     <Resource name="Cluster0_Neurons1"
               path="gs://cut_and_tag_private/human_august2020/cluster_0.bw"/>
