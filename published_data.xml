@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Global name="Published data"  infolink="http://www.broadinstitute.org/igv/" version="1">
+  <Category name="ChIP-seq">
+    <Resource name="Olig2 spinal cord GSE103324"
+              path="https://storage.googleapis.com/sc_cutandtag/Published%20data/ChIP-seq/SRR5992858_Olig2_aligned_sorted.bw"/>
+  </Category>
+</Global>

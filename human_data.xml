@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Global name="scCut_tag_Human_Aug2020"  infolink="http://www.broadinstitute.org/igv/" version="1">
+  <Category name="H3K27ac">
+    <Resource name="Cluster0_Neurons1"
+              path="gs://cut_and_tag_private/human_august2020/cluster_0.bw"/>
+    <Resource name="Cluster1_Astrocytes"
+              path="gs://cut_and_tag_private/human_august2020/cluster_1.bw"/>
+	<Resource name="Cluster2_Unknown"
+			  path="gs://cut_and_tag_private/human_august2020/cluster_2.bw"/>
+	<Resource name="Cluster3_Neurons2"
+			  path="gs://cut_and_tag_private/human_august2020/cluster_3.bw"/>
+	<Resource name="Cluster4_Oligodendrocytes"
+	  		  path="gs://cut_and_tag_private/human_august2020/cluster_4.bw"/>
+  </Category>
+</Global>

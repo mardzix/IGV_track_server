@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Global name="scCut_tag"  infolink="http://www.broadinstitute.org/igv/" version="1">
+  <Category name="annotation">
+    <Resource name="mm10.refseq"
+              path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/mm10.refGene.gtf"/>
+	</Category>
+	
+  <Category name="H3K4me3">
+    <Resource name="Astrocytes_H3K4me3"
+              path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K4me3/bigwig/cluster_Astrocytes.bw"/>
+    <Resource name="Microglia_H3K4me3"
+              path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K4me3/bigwig/cluster_Microglia.bw"/>
+		<Resource name="Neurons_1_H3K4me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K4me3/bigwig/cluster_Neurons_1.bw"/>
+		<Resource name="Neurons_2_H3K4me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K4me3/bigwig/cluster_Neurons_2.bw"/>
+		<Resource name="Neurons_3_H3K4me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K4me3/bigwig/cluster_Neurons_3.bw"/>
+		<Resource name="Oligodendrocytes_H3K4me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K4me3/bigwig/cluster_mOL.bw"/>
+		<Resource name="OPC_H3K4me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K4me3/bigwig/cluster_OPC.bw"/>
+		<Resource name="OEC_H3K4me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K4me3/bigwig/cluster_OEC.bw"/>
+		<Resource name="VLMC_H3K4me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K4me3/bigwig/cluster_VLMC.bw"/>
+  </Category>
+
+
+	<Category name="H3K27me3">
+	  <Resource name="Astrocytes_H3K27me3"
+	            path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3/bigwig/cluster_Astrocytes.bw"/>
+	  <Resource name="Microglia_H3K27me3"
+	            path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3/bigwig/cluster_Microglia.bw"/>
+		<Resource name="Neurons_1_H3K27me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3/bigwig/cluster_Neurons_1.bw"/>
+		<Resource name="Neurons_2_H3K27me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3/bigwig/cluster_Neurons_3.bw"/>
+		<Resource name="Oligodendrocytes_H3K27me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3/bigwig/cluster_mOL.bw"/>
+		<Resource name="OPC_H3K27me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3/bigwig/cluster_OPC.bw"/>
+		<Resource name="OEC_H3K27me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3/bigwig/cluster_OEC.bw"/>
+		<Resource name="VLMC_H3K27me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3/bigwig/cluster_VLMC.bw"/>
+	</Category>
+	
+	<Category name="H3K36me3">
+	  <Resource name="Astrocytes_H3K36me3"
+	            path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K36me3/bigwig/cluster_Astrocytes.bw"/>
+		<Resource name="Oligodendrocytes_H3K36me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K36me3/bigwig/cluster_mOL.bw"/>
+		<Resource name="OPC_H3K36me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K36me3/bigwig/cluster_OPC.bw"/>
+		<Resource name="OEC_H3K36me3"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K36me3/bigwig/cluster_OEC.bw"/>
+	</Category>
+	
+	<Category name="H3K27ac">
+	  <Resource name="Astrocytes_H3K27ac"
+	            path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27ac/bigwig/cluster_Astrocytes.bw"/>
+		<Resource name="Oligodendrocytes_H3K27ac"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27ac/bigwig/cluster_mOL.bw"/>
+		<Resource name="OPC_H3K27ac"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27ac/bigwig/cluster_OPC.bw"/>
+		<Resource name="OEC_H3K27ac"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27ac/bigwig/cluster_OEC.bw"/>
+		<Resource name="VLMC_H3K27ac"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27ac/bigwig/cluster_VLMC.bw"/>
+	</Category>
+	
+	<Category name="Olig2">
+	  <Resource name="Olig2 Oligo"
+	            path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/Olig2/bigwig/cluster_oligo.bw"/>
+		<Resource name="Olig2 non-oligo"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/Olig2/bigwig/cluster_non_oligo.bw"/>
+	</Category>
+	
+	<Category name="Rad21">
+	  <Resource name="Astrocytes_Rad21"
+	            path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/Rad21/bigwig/cluster_Astrocytes.bw"/>
+		<Resource name="Oligodendrocytes_Rad21"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/Rad21/bigwig/cluster_mOL.bw"/>
+		<Resource name="OEC_Rad21"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/Rad21/bigwig/cluster_OEC.bw"/>
+	</Category>
+	
+
+	
+</Global>
