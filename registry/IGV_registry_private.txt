@@ -1,4 +1,9 @@
-https://storage.googleapis.com/sc_cutandtag/IGV_config/igv_CT_mm10.xml
-https://storage.googleapis.com/sc_cutandtag/IGV_config/mm10_annotations.xml
-https://storage.googleapis.com/sc_cutandtag/IGV_config/published_data.xml
-https://storage.googleapis.com/sc_cutandtag/IGV_config/human_data.xml
+#https://storage.googleapis.com/sc_cutandtag/IGV_config/igv_CT_mm10.xml
+#https://storage.googleapis.com/sc_cutandtag/IGV_config/mm10_annotations.xml
+#https://storage.googleapis.com/sc_cutandtag/IGV_config/published_data.xml
+#https://storage.googleapis.com/sc_cutandtag/IGV_config/human_data.xml
+
+https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/human_data.xml
+https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/igv_CT_mm10.xml
+https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/mm10_annotations.xml
+https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/published_data.xml
