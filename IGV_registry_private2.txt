@@ -1,4 +1,0 @@
-https://storage.googleapis.com/sc_cutandtag/IGV_config/igv_CT_mm10.xml
-https://storage.googleapis.com/sc_cutandtag/IGV_config/mm10_annotations.xml
-https://storage.googleapis.com/sc_cutandtag/IGV_config/published_data.xml
-https://storage.googleapis.com/sc_cutandtag/IGV_config/human_data.xml
