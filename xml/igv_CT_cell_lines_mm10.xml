@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Global name="scCut_tag Cell lines"  infolink="https://www.biorxiv.org/content/10.1101/2020.09.02.279703v1" version="1">
+
+	<Category name="H3K27me">
+	  <Resource name="mESC 1"
+	            path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3_cell_lines/cluster_mESC_1.bw"/>
+	  <Resource name="mESC 2"
+	            path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3_cell_lines/cluster_mESC_2.bw"/>
+		<Resource name="Oli-neu 1"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3_cell_lines/cluster_Oli-neu_1.bw"/>
+		<Resource name="Oli-neu 2"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3_cell_lines/cluster_Oli-neu_2.bw"/>
+		<Resource name="NIH-3T3 MEFs"
+							path="https://storage.googleapis.com/sc_cutandtag/Cut_and_tag_bw/H3K27me3_cell_lines/cluster_3T3.bw"/>
+	</Category>
+  
+</Global>
