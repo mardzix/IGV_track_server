@@ -2,4 +2,4 @@ https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/igv_CT_mm1
 https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/mm10_annotations.xml
 https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/published_data.xml
 https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/igv_CT_cell_lines_mm10.xml
-https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/igv_bcdCT2.xml
+https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/igv_bcdCT3.xml
