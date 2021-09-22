@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/mm10_annot
 https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/published_data.xml
 https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/igv_CT_cell_lines_mm10.xml
 https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/igv_bcdCT4.xml
+https://raw.githubusercontent.com/mardzix/IGV_track_server/master/xml/oli_neu_reference.xml

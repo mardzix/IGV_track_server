@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Global name="Oli neu reference"  infolink="http://www.broadinstitute.org/igv/" version="1">
+
+  <Category name="CUT_Run">
+    <Resource name="H3K4me1"
+              path="gs://barcoded_cuttag/Oli_neu_reference_data/cut_run/P13556_1001_H3K4me1.bw"/>
+    <Resource name="H3K27ac"
+              path="gs://barcoded_cuttag/Oli_neu_reference_data/cut_run/P13556_1006_H3K27ac.bw"/>
+		<Resource name="H3K4me3"
+							path="gs://barcoded_cuttag/Oli_neu_reference_data/cut_run/P13556_1008_H3K4me3.bw"/>
+		<Resource name="H3K27me3"
+							path="gs://barcoded_cuttag/Oli_neu_reference_data/cut_run/P13556_1015_H3K27me3.bw"/>
+		<Resource name="Ctcf"
+							path="gs://barcoded_cuttag/Oli_neu_reference_data/cut_run/P13556_1020_Ctcf.bw"/>
+		<Resource name="Rad21"
+							path="gs://barcoded_cuttag/Oli_neu_reference_data/cut_run/P13556_1021_Rad21.bw"/>
+  </Category>
+
+	<Category name="CUT_Tag">
+	  <Resource name="H3K27ac"
+	            path="gs://barcoded_cuttag/Oli_neu_reference_data/cut_tag/P15158_1046_H3K27ac.bw"/>
+	</Category>
+
+	<Category name="ATAC-seq">
+	  <Resource name="ATAC-seq_rep1"
+	            path="gs://barcoded_cuttag/Oli_neu_reference_data/atac_seq/siCtrl_rep1_ATACSEQ_siPADI_240118_norm.bw"/>
+    <Resource name="ATAC-seq_rep2"
+	            path="gs://barcoded_cuttag/Oli_neu_reference_data/atac_seq/siCtrl_rep2_ATACSEQ_siPADI_240118_norm.bw"/>
+	  <Resource name="ATAC-seq_rep3"
+	            path="gs://barcoded_cuttag/Oli_neu_reference_data/atac_seq/siCtrl_rep3_ATACSEQ_siPADI_240118_norm.bw"/>
+
+	</Category>
+</Global>
