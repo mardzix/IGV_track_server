@@ -134,4 +134,6 @@
     </path="gsutil://barcoded_cuttag/bcdCT_MB21_01/P22402_1032/P22402_1032_H3K27ac_ATAGAGGC.bw">
     </Resource name=P22402_1032_H3K27me3_CCTATCCT.bw>
     </path="gsutil://barcoded_cuttag/bcdCT_MB21_01/P22402_1032/P22402_1032_H3K27me3_CCTATCCT.bw">
-  </Category>	
+  </Category>
+</Global>
+
